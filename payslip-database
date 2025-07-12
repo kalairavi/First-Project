@@ -1,0 +1,22 @@
+{
+  "name": "Anthony Lewis",
+  "role": "Web Designer",
+  "email": "anthony@example.com",
+  "phone": "+1 458 268 4738",
+  "month": "October 2024",
+  "earnings": {
+    "basic": 3000,
+    "hra": 1000,
+    "conveyance": 200,
+    "other": 100,
+    "total": 4300
+  },
+  "deductions": {
+    "tds": 200,
+    "pf": 300,
+    "esi": 150,
+    "loan": 50,
+    "total": 700
+  },
+  "netSalary": 3600
+}
